@@ -1,0 +1,19 @@
+
+#Navbar{
+    display: flex;
+    justify-content: space-evenly;
+     background-color: #000000;
+    align-items: center;
+   }
+   body {color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);margin: 0;}
+
+    .Suscripcion{
+    
+margin-top: 100px;
+display: block;
+float:inline-start;
+height: 100px;
+width: 50px;
+
+    }
